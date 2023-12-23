@@ -1,4 +1,4 @@
-# Import numpy and matplotlib libraries
+# Import numpy  and matplotlib libraries
 import matplotlib.pyplot as plt
 import numpy as np
 
